@@ -1,2 +1,0 @@
-# Modelos-Lineares-Generalizados
-UEPB
